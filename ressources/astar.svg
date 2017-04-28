@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5654"
+   sodipodi:docname="astar.svg"
+   inkscape:export-filename="D:\Web Projects\Personal Site\ressources\astar.png"
+   inkscape:export-xdpi="85.674011"
+   inkscape:export-ydpi="85.674011"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs5648">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6211">
+      <stop
+         style="stop-color:#e3e4b8;stop-opacity:1"
+         offset="0"
+         id="stop6207" />
+      <stop
+         style="stop-color:#9fa07b;stop-opacity:1"
+         offset="1"
+         id="stop6209" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6211"
+       id="radialGradient6213"
+       cx="108.037"
+       cy="130.7301"
+       fx="108.037"
+       fy="130.7301"
+       r="109.04613"
+       gradientTransform="matrix(0.69816206,0,0,0.77205266,29.45715,19.12643)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-94.770265"
+     inkscape:cy="587.96505"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5651">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6221"
+       transform="matrix(1.1004517,0,0,1.1338583,-7.1021957,-18.42182)">
+      <rect
+         y="13.139882"
+         x="-8.3154764"
+         height="211.66666"
+         width="218.09225"
+         id="rect6205"
+         style="opacity:1;fill:url(#radialGradient6213);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:13.26499939;stroke-miterlimit:4;stroke-dasharray:26.52999973, 13.26499987;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.91087914px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44777197"
+       x="64.656021"
+       y="131.67964"
+       id="text5658"
+       transform="scale(1.025362,0.97526533)"><tspan
+         sodipodi:role="line"
+         id="tspan5656"
+         x="64.656021"
+         y="131.67964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:119.40586853px;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, ';stroke-width:0.44777197">A*</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:13.26500034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:26.53000007, 13.26500003;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 58.586309,83.44345 c -9.162663,3.91958 -16.454841,8.85886 -21.544644,17.76488 -4.778764,21.00052 -7.693701,35.82134 2.645834,45.73511 9.387579,27.04305 17.439547,21.97786 22.300595,29.10417 22.017417,7.08744 42.175446,9.03041 57.452376,7.18155 21.54234,-3.0222 27.0511,-3.12027 37.79762,-10.58334 7.55512,-5.24676 9.45481,-13.03043 16.25298,-22.3006 7.42511,-10.12507 4.45916,-54.40259 -1.88989,-67.27975"
+       id="path5660"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccasc" />
+  </g>
+</svg>
