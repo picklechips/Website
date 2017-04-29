@@ -250,13 +250,13 @@ p {
     box-shadow: 0px 0px 4px
 }
 
-#projects .boardOnModalIMG {
+#projects .galleryImage {
     box-shadow: 0px 0px 4px
 }
 
 #projects .modalVideo {
     height: 360px;
-    width: 640px;
+    width: 100%;
 }
 
 #projects p, li {
