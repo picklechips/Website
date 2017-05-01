@@ -43,10 +43,10 @@ function initTooltips() {
 }
 
 $(document).ready(function(){    
+    initTooltips();
     smoothScroll();
     closeModalVideo();
     initToolbox()
-    initTooltips();
 });
 
 
