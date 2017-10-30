@@ -9,7 +9,12 @@ function smoothScroll() {
             $('html, body').animate({
                 scrollTop: $(hash).offset().top-60
             }, 600, function(){
-                window.location.hash = hash;
+                if(history.pushState) {
+                    history.pushState(null, null, hash);
+                }
+                else {
+                    window.location.hash = hash;
+                }
             });
         }
     });
