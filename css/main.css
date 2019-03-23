@@ -101,24 +101,24 @@ p {
 /* HOME SECTION */
 /*--------------*/
 #home {
-    height: calc(100% - 40px);
-    background-image: url("../ressources/b50.png")
-}
-
-#home .centerContent {
-    position: relative;
-    top: 47%;
-    transform: translateY(-50%);
+    background-image: url("../resources/alaskabg1.jpg");
+    background-size: auto 100%;
 }
 
 #home .fillHeight {
     height: calc(100vh - 60px);
 }
 
+#home .centerContent {
+    position: relative;
+    top: 43%;
+    transform: translateY(-50%);
+}
+
 #home h1 {
     font-size: 80px;
     letter-spacing: 15px;
-    text-shadow: 0px 0px 5px #888888
+    text-shadow: 0px 0px 10px #666
 }
 
 #home h4 {
@@ -135,12 +135,12 @@ p {
 }
 
 #home .toolbox {
-    background-color: #FEFEFE;
-    color: #555555;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
     padding: 10px 20px;
     margin-top: 10px;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px black;
+    margin-bottom: 10px;
+    border-radius: 20px;
 }
 
 #home .toolboxIcon {
@@ -155,6 +155,22 @@ p {
     max-height: 30vw;
     height: 30vh;
     box-shadow: 0px 0px 10px #111111;
+}
+
+#home .html-tag {
+    color: #20bc9c;
+}
+
+#home .subheader {
+    color: #fff;
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    text-shadow: 1px 1px 5px #000;
+}
+
+#home .contact {
+    position: absolute;
+    bottom: 20px;
 }
 
 @media screen and (max-width: 945px)
